@@ -1,0 +1,13 @@
+-rw-r--r-- 1 jayavarapu 197121  10 Apr 25 13:43 README.md
+-rwxr-xr-x 1 jayavarapu 197121  63 Apr 25 14:10 myscript.sh*
+-rw-r--r-- 1 jayavarapu 197121  20 Apr 25 14:29 mynewfile
+-rw-r--r-- 1 jayavarapu 197121  25 Apr 25 14:30 dev1requirement
+-rw-r--r-- 1 jayavarapu 197121   0 Apr 25 14:46 myfile
+-rw-r--r-- 1 jayavarapu 197121  23 Apr 25 14:51 t1.java
+-rw-r--r-- 1 jayavarapu 197121 101 Apr 25 15:05 dev2file
+-rw-r--r-- 1 jayavarapu 197121  12 Apr 25 15:06 devfile2
+-rw-r--r-- 1 jayavarapu 197121   0 Apr 26 00:53 1.java
+drwxr-xr-x 1 jayavarapu 197121   0 Apr 26 01:17 abc/
+drwxr-xr-x 1 jayavarapu 197121   0 Apr 26 01:18 newdir/
+-rw-r--r-- 1 jayavarapu 197121  23 Apr 26 01:19 file3
+-rw-r--r-- 1 jayavarapu 197121   0 Apr 26 01:19 file4
