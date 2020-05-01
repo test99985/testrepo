@@ -1,1 +1,0 @@
-df -h|awk NR '{$NF}'[D[D[D[D[Dprint $NF}'
